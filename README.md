@@ -8,13 +8,13 @@ Available in version macOS 13.0
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | Intel i5-9500T |
+| CPU | Intel i3-9100T |
 | Motherboard | Intel B360 |
-| RAM | 16GB DDR4-2133 |
+| RAM | 24GB DDR4-2133 |
 | Audio Chipset | ALC235 |
 | GPU | Intel® UHD Graphics 630 (DP, HDMI, VGA) |
 | OS Disk (NVMe) | LITEON T10 NVMe 256G |
-| WIFI | Intel 7265 |
+| WIFI | Broadcom BCM94360CS2 |
 
 **macOS version**: 13.0
 **OpenCore version**: 0.7.8
