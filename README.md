@@ -13,7 +13,7 @@ Available in version macOS 13.0
 | RAM | 24GB DDR4-2133 |
 | Audio Chipset | ALC235 |
 | GPU | Intel® UHD Graphics 630 (DP, HDMI, VGA) |
-| OS Disk (NVMe) | LITEON T10 NVMe 256G |
+| OS Disk (NVMe) | WDC PC SN730 256G |
 | WIFI | Broadcom BCM94360CS2 |
 
 **macOS version**: 13.0
