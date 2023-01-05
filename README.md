@@ -19,7 +19,7 @@ Available in version macOS 13.0
 **macOS version**: 13.0
 **OpenCore version**: 0.7.8
 
-![image](https://github.com/emumusic/M720Q-EFI/screenshot.png)
+![image](https://github.com/emumusic/M720Q-EFI/blob/master/screenshot.png?raw=true)
 
 ## All work
 
